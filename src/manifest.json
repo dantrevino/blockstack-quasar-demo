@@ -1,0 +1,12 @@
+{
+  "name": "Blockstack Quasar Demo",
+  "start_url": "http://localhost:8080",
+  "description": "A Blockstack demo app using Quasar Framework",
+  "icons": [
+    {
+      "src": " http://localhost:8080/statics/app-logo-128x128.png",
+      "sizes": "400x400",
+      "type": "image/svg"
+    }
+  ]
+}

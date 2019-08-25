@@ -114,7 +114,10 @@
         </q-item>
       </q-card>
     </div>
-    <div class="q-pa-md q-gutter-sm">
+    <div
+      class="q-pa-md q-gutter-sm"
+      v-if="profile"
+    >
       <q-editor
         v-model="editor"
         :definitions="{
